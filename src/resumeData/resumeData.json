@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Shan Shaji",
+    "occupation": "Full Stack Developer",
+    "description": "I mostly work with Ruby on Rails and JavaScript",
+    "bio": "End to End Product Developer with immense passion towards Rails and React",
+    "email": "shanshaji@gmail.com",
+    "phone": "929-420-6869",
+    "address": {
+      "street": "Brooklyn",
+      "city": "New York",
+      "state": "NY",
+      "zip": "11219"
+    },
+    "website": "http://www.github.com/shanshaji",
+    "resumedownload": "../../public/resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/shanshaji",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stack overflow",
+        "url": "https://stackoverflow.com/users/9563947/shan",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shan.shaji1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/shan9645",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shanshaji/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shan_chelakkat/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Sri Krishna College of Engineering and Technology",
+        "degree": "Bachelor",
+        "graduated": "March 2017",
+        "description": "Majored in Computer Science Engineering"
+      },
+      {
+        "school": "DCT Academy",
+        "degree": "Software Development",
+        "graduated": "December 2017",
+        "description": "Learned the basics of Ruby On Rails"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cybrilla",
+        "title": "Software Developer ",
+        "years": "May 2019 - March 2020",
+        "description": "Built a call center management application using ruby on rails and react"
+      },
+      {
+        "company": "RubyKraft, Bangalore",
+        "title": "Graduate Software Engineer",
+        "years": "March 2018 - May 2019",
+        "description": "Worked on multiple projects using rails react and electron."
+      },
+      {
+        "company": "Digital Aristotle, Bangalore",
+        "title": "Intern",
+        "years": "January 2017 - March 2017",
+        "description": "Involved in the development of AI for children’s online educaton "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Ruby",
+        "level": "95%"
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "90%"
+      },
+      {
+        "name": "Electron",
+        "level": "50%"
+      },
+      {
+        "name": "Angular",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Bubble Chart",
+        "description": "React Bubble chart with help of d3.js",
+        "category": "Npm Plugin",
+        "tags": "bubble chart",
+        "image": "npm.jpg",
+        "url": "https://www.npmjs.com/package/react-d3-bubble"
+      },
+      {
+        "title": "Table Boy",
+        "description": "An easy to use react table with server side pagination and server side sorting, which makes creating tables fun. No jquery dependancy",
+        "category": "Npm Plugin",
+        "tags": "React table, table plugin",
+        "image": "npm.jpg",
+        "url": "https://www.npmjs.com/package/table-boy"
+      },
+      {
+        "title": "Just Drag",
+        "description": "A HOC which will turn wrapped elements draggable",
+        "category": "Npm Plugin",
+        "tags": "Drag React, React Draggable",
+        "image": "npm.jpg",
+        "url": "https://www.npmjs.com/package/just-drag"
+      }
+    ]
+  }
+}
