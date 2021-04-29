@@ -23,9 +23,9 @@ class Contact extends Component {
     });
   }
 
-  handleSubmit(ev) {
-    ev.preventDefault();
-    const form = ev.target;
+  handleSubmit(event) {
+    event.preventDefault();
+    const form = event.target;
     const data = new FormData(form);
     const xhr = new XMLHttpRequest();
     xhr.open(form.method, form.action);

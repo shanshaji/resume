@@ -26,6 +26,16 @@
         "className": "fa fa-stack-overflow"
       },
       {
+        "name": "Medium",
+        "url": "https://shanshaji.medium.com/",
+        "className": "fa fa-medium"
+      },
+      {
+        "name": "Itch.io",
+        "url": "https://shanshaji.itch.io/",
+        "className": "fa fa-gamepad"
+      },
+      {
         "name": "facebook",
         "url": "https://www.facebook.com/shan.shaji1/",
         "className": "fa fa-facebook"
@@ -92,12 +102,20 @@
         "level": "90%"
       },
       {
+        "name": "Dragon Ruby",
+        "level": "70%"
+      },
+      {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "React",
         "level": "90%"
+      },
+      {
+        "name": "Express",
+        "level": "80%"
       },
       {
         "name": "Electron",
@@ -112,29 +130,61 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Articles",
+        "description": "Medium Article",
+        "category": "Medium Article",
+        "image": "medium.png",
+        "url": "https://shanshaji.medium.com/"
+      },
+      {
         "title": "Bubble Chart",
         "description": "React Bubble chart with help of d3.js",
         "category": "Npm Plugin",
-        "tags": "bubble chart",
-        "image": "npm.jpg",
+        "image": "js.png",
         "url": "https://www.npmjs.com/package/react-d3-bubble"
       },
       {
         "title": "Table Boy",
         "description": "An easy to use react table with server side pagination and server side sorting, which makes creating tables fun. No jquery dependancy",
         "category": "Npm Plugin",
-        "tags": "React table, table plugin",
-        "image": "npm.jpg",
+        "image": "js.png",
         "url": "https://www.npmjs.com/package/table-boy"
       },
       {
         "title": "Just Drag",
         "description": "A HOC which will turn wrapped elements draggable",
         "category": "Npm Plugin",
-        "tags": "Drag React, React Draggable",
-        "image": "npm.jpg",
+        "image": "js.png",
         "url": "https://www.npmjs.com/package/just-drag"
-      }
+      },
+      {
+        "title": "Cricket Game",
+        "description": "An Incremental design workshop",
+        "category": "Ruby",
+        "image": "ruby.png",
+        "url": "https://github.com/shanshaji/Cricket"
+      },
+      {
+        "title": "Ecommerce App",
+        "description": "A basic ecommerce application",
+        "category": "Ruby",
+        "image": "ruby.png",
+        "url": "https://github.com/shanshaji/Ecommerce"
+      },
+      {
+        "title": "Mars Rover",
+        "description": "Mars Rover Problem Design",
+        "category": "Ruby",
+        "image": "ruby.png",
+        "url": "https://github.com/shanshaji/mars-rover"
+      },
+      {
+        "title": "Dragon PvP Game",
+        "description": "Local Multiplayer 2D Game",
+        "category": "Dragon Ruby",
+        "image": "dragonruby-black.png",
+        "url": "https://shanshaji.itch.io/dragon-pvp"
+      }  
     ]
   }
 }
